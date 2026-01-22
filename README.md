@@ -1,3 +1,3 @@
-NAME:Kinch
+NAME:Kinch L. Jarantilla
 Subject:Adet
-Course:BSIT 2 B
+Course:BSIT 2 (B)
